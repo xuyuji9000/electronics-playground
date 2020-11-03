@@ -1,6 +1,11 @@
 This folder is used for gyrocope example code.
 
 
+![Arduino Uno R3 Pin Diagram ](./Pinout-UNOrev3_latest.png)
+
+> Reference Arduino Uno R3 Pin Diagram here
+
+
 # Reference
 
 1. [Lesson16 GY-521 Module & MPU-6050](https://www.youtube.com/watch?v=y5X2zwbO6e4)
